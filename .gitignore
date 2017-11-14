@@ -1,0 +1,4 @@
+/.vs
+/AspNetCoreWebApi/*.user
+/AspNetCoreWebApi/bin
+/AspNetCoreWebApi/obj
